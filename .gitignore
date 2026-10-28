@@ -1,0 +1,9 @@
+build/
+*.apk
+*.idsig
+*.keystore
+*.jks
+docs/raw/
+.idea/
+.vscode/
+*.iml

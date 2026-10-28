@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Camera → Galerij</string>
+    <string name="tagline">Open foto\'s uit Google Camera in de galerij die je het fijnst vindt.</string>
+    <string name="service_description">Wanneer Google Camera een foto opent in Google Foto\'s, sluit deze service Google Foto\'s en opent de foto in de galerij die je hebt gekozen. De service leest niet wat er op je scherm staat.</string>
+
+    <string name="status_ready">Klaar</string>
+    <string name="status_ready_body">Tik op de miniatuur in Google Camera en de foto opent in %1$s.</string>
+    <string name="status_ready_ask">Tik op de miniatuur in Google Camera en je krijgt de vraag welke galerij je wilt gebruiken.</string>
+    <string name="status_setup">Bijna klaar</string>
+    <string name="status_setup_body">Voltooi de onderstaande stappen om alles te laten werken.</string>
+
+    <string name="step_gallery">Galerij</string>
+    <string name="step_photos">Toegang tot foto\'s</string>
+    <string name="step_service">Achtergrondservice</string>
+
+    <string name="gallery_none">Geen galerij gevonden — installeer er eerst een</string>
+    <string name="gallery_ask">Elke keer vragen</string>
+    <string name="access_full">Volledige toegang</string>
+    <string name="access_limited">Beperkt — het startscherm van de galerij wordt geopend</string>
+    <string name="access_none">Niet toegestaan</string>
+    <string name="service_on">Aan</string>
+    <string name="service_off">Uit</string>
+
+    <string name="btn_continue">Doorgaan met instellen</string>
+    <string name="btn_allow">Toestaan</string>
+    <string name="btn_allow_all">Alles toestaan</string>
+    <string name="btn_turn_on">Inschakelen</string>
+    <string name="btn_settings">Instellingen</string>
+
+    <string name="section_galleries">Galerijen</string>
+    <string name="section_other">Andere fotoviewers</string>
+    <string name="ask_desc">Kies elke keer de galerij wanneer je een foto vanuit de camera opent</string>
+
+    <string name="hint_title">Lukt het niet om de service in te schakelen?</string>
+    <string name="hint_body">Als de schakelaar grijs is, open dan \'App-info\', tik op ⋮ (rechtsboven) en kies \'Beperkte instellingen toestaan\'. Probeer het daarna opnieuw.</string>
+    <string name="btn_app_info">App-info openen</string>
+
+    <string name="why_photos">Alleen gebruikt om je laatste foto te vinden en aan je galerij door te geven. Er verlaat niets je telefoon.</string>
+    <string name="why_service">Laat de app merken wanneer de camera Google Foto\'s opent, zodat je galerij in plaats daarvan opent. De app kan je scherm niet lezen.</string>
+    <string name="rationale_title">Toegang tot foto\'s toestaan?</string>
+    <string name="rationale_body">Nodig om de foto die je zojuist maakte te vinden en in je galerij te openen. Er wordt niets geüpload of gedeeld. Sta op het volgende scherm toegang tot alle foto\'s toe voor het beste resultaat.</string>
+    <string name="new_gallery_note">Nieuwe galerij gevonden: %1$s. Je krijgt de vraag welke je wilt gebruiken totdat je hieronder kiest.</string>
+
+    <string name="picker_title">Foto openen met</string>
+    <string name="picker_always">Deze galerij altijd gebruiken</string>
+</resources>

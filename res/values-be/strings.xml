@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Камера → Галерэя</string>
+    <string name="tagline">Адкрывайце фота з Google Камеры ў той галерэі, якая вам падабаецца.</string>
+    <string name="service_description">Калі Google Камера адкрывае фота ў Google Фота, гэтая служба закрывае Google Фота і адкрывае фота ў абранай вамі галерэі. Яна не чытае змест вашага экрана.</string>
+
+    <string name="status_ready">Гатова</string>
+    <string name="status_ready_body">Націсніце на мініяцюру ў Google Камеры — фота адкрыецца ў %1$s.</string>
+    <string name="status_ready_ask">Націсніце на мініяцюру ў Google Камеры — вас спытаюць, якую галерэю выкарыстаць.</string>
+    <string name="status_setup">Амаль гатова</string>
+    <string name="status_setup_body">Выканайце крокі ніжэй, каб усё запрацавала.</string>
+
+    <string name="step_gallery">Галерэя</string>
+    <string name="step_photos">Доступ да фота</string>
+    <string name="step_service">Фонавая служба</string>
+
+    <string name="gallery_none">Галерэю не знойдзена — спачатку ўсталюйце яе</string>
+    <string name="gallery_ask">Пытаць кожны раз</string>
+    <string name="access_full">Поўны доступ</string>
+    <string name="access_limited">Абмежаваны — адкрыецца галоўны экран галерэі</string>
+    <string name="access_none">Не дазволена</string>
+    <string name="service_on">Уключана</string>
+    <string name="service_off">Выключана</string>
+
+    <string name="btn_continue">Працягнуць налады</string>
+    <string name="btn_allow">Дазволіць</string>
+    <string name="btn_allow_all">Дазволіць усё</string>
+    <string name="btn_turn_on">Уключыць</string>
+    <string name="btn_settings">Налады</string>
+
+    <string name="section_galleries">Галерэі</string>
+    <string name="section_other">Іншыя праглядальнікі фота</string>
+    <string name="ask_desc">Выбіраць галерэю кожны раз, калі вы адкрываеце фота з камеры</string>
+
+    <string name="hint_title">Не ўключаецца служба?</string>
+    <string name="hint_body">Калі пераключальнік шэры, адкрыйце «Звесткі пра праграму», націсніце ⋮ (справа ўверсе) і абярыце «Дазволіць абмежаваныя налады», потым паспрабуйце зноў.</string>
+    <string name="btn_app_info">Адкрыць звесткі пра праграму</string>
+
+    <string name="why_photos">Патрэбны толькі каб знайсці апошняе фота і перадаць яго вашай галерэі. Нічога не пакідае тэлефон.</string>
+    <string name="why_service">Дазваляе праграме заўважыць, што камера адкрыла Google Фота, і адкрыць вашу галерэю замест яго. Змест экрана яна не чытае.</string>
+    <string name="rationale_title">Дазволіць доступ да фота?</string>
+    <string name="rationale_body">Патрэбны, каб знайсці толькі што зробленае фота і адкрыць яго ў вашай галерэі. Нічога не загружаецца і не перадаецца. На наступным экране дазвольце доступ да ўсіх фота — так усё працуе лепш за ўсё.</string>
+    <string name="new_gallery_note">Знойдзена новая галерэя: %1$s. Вас будуць пытаць, якую выкарыстаць, пакуль вы не абярэце ніжэй.</string>
+
+    <string name="picker_title">Адкрыць фота ў</string>
+    <string name="picker_always">Заўсёды выкарыстоўваць гэтую галерэю</string>
+</resources>

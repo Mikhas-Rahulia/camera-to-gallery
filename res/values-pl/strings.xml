@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aparat → Galeria</string>
+    <string name="tagline">Otwieraj zdjęcia z Aparatu Google w wybranej galerii.</string>
+    <string name="service_description">Gdy Aparat Google otwiera zdjęcie w Zdjęciach Google, ta usługa zamyka Zdjęcia Google i otwiera zdjęcie w wybranej przez Ciebie galerii. Nie odczytuje zawartości ekranu.</string>
+
+    <string name="status_ready">Gotowe</string>
+    <string name="status_ready_body">Kliknij miniaturę w Aparacie Google, a zdjęcie otworzy się w aplikacji %1$s.</string>
+    <string name="status_ready_ask">Kliknij miniaturę w Aparacie Google, a zapytamy, której galerii użyć.</string>
+    <string name="status_setup">Prawie gotowe</string>
+    <string name="status_setup_body">Wykonaj poniższe kroki, aby wszystko działało.</string>
+
+    <string name="step_gallery">Galeria</string>
+    <string name="step_photos">Dostęp do zdjęć</string>
+    <string name="step_service">Usługa w tle</string>
+
+    <string name="gallery_none">Nie znaleziono galerii — najpierw ją zainstaluj</string>
+    <string name="gallery_ask">Pytaj za każdym razem</string>
+    <string name="access_full">Pełny dostęp</string>
+    <string name="access_limited">Ograniczony — otworzy się ekran główny galerii</string>
+    <string name="access_none">Niedozwolony</string>
+    <string name="service_on">Włączona</string>
+    <string name="service_off">Wyłączona</string>
+
+    <string name="btn_continue">Kontynuuj konfigurację</string>
+    <string name="btn_allow">Zezwól</string>
+    <string name="btn_allow_all">Zezwól na wszystko</string>
+    <string name="btn_turn_on">Włącz</string>
+    <string name="btn_settings">Ustawienia</string>
+
+    <string name="section_galleries">Galerie</string>
+    <string name="section_other">Inne przeglądarki zdjęć</string>
+    <string name="ask_desc">Wybieraj galerię za każdym razem, gdy otwierasz zdjęcie z aparatu</string>
+
+    <string name="hint_title">Nie można włączyć usługi?</string>
+    <string name="hint_body">Jeśli przełącznik jest wyszarzony, otwórz „Informacje o aplikacji”, dotknij ⋮ (u góry po prawej) i wybierz „Zezwól na ustawienia z ograniczeniami”, a potem spróbuj ponownie.</string>
+    <string name="btn_app_info">Otwórz informacje o aplikacji</string>
+
+    <string name="why_photos">Służy tylko do znalezienia ostatniego zdjęcia i przekazania go Twojej galerii. Nic nie opuszcza telefonu.</string>
+    <string name="why_service">Pozwala aplikacji zauważyć, że aparat otworzył Zdjęcia Google, i otworzyć zamiast nich Twoją galerię. Nie odczytuje zawartości ekranu.</string>
+    <string name="rationale_title">Zezwolić na dostęp do zdjęć?</string>
+    <string name="rationale_body">Potrzebny, aby znaleźć właśnie zrobione zdjęcie i otworzyć je w Twojej galerii. Nic nie jest wysyłane ani udostępniane. Na następnym ekranie zezwól na dostęp do wszystkich zdjęć — tak działa najlepiej.</string>
+    <string name="new_gallery_note">Znaleziono nową galerię: %1$s. Będziemy pytać, której użyć, dopóki nie wybierzesz poniżej.</string>
+
+    <string name="picker_title">Otwórz zdjęcie w</string>
+    <string name="picker_always">Zawsze używaj tej galerii</string>
+</resources>

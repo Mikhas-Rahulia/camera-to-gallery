@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Camera → Gallery</string>
+    <string name="tagline">Open photos from Google Camera in the gallery you like.</string>
+    <string name="service_description">When Google Camera opens a photo in Google Photos, this service closes Google Photos and opens the photo in the gallery you chose. It does not read what is on your screen.</string>
+
+    <string name="status_ready">Ready</string>
+    <string name="status_ready_body">Tap the thumbnail in Google Camera and the photo opens in %1$s.</string>
+    <string name="status_ready_ask">Tap the thumbnail in Google Camera and you will be asked which gallery to use.</string>
+    <string name="status_setup">Almost there</string>
+    <string name="status_setup_body">Finish the steps below to make it work.</string>
+
+    <string name="step_gallery">Gallery</string>
+    <string name="step_photos">Access to photos</string>
+    <string name="step_service">Background service</string>
+
+    <string name="gallery_none">No gallery found — install one first</string>
+    <string name="gallery_ask">Ask every time</string>
+    <string name="access_full">Full access</string>
+    <string name="access_limited">Limited — opens the gallery\'s home screen</string>
+    <string name="access_none">Not allowed</string>
+    <string name="service_on">On</string>
+    <string name="service_off">Off</string>
+
+    <string name="btn_continue">Continue setup</string>
+    <string name="btn_allow">Allow</string>
+    <string name="btn_allow_all">Allow all</string>
+    <string name="btn_turn_on">Turn on</string>
+    <string name="btn_settings">Settings</string>
+
+    <string name="section_galleries">Galleries</string>
+    <string name="section_other">Other photo viewers</string>
+    <string name="ask_desc">Choose the gallery each time you open a photo from the camera</string>
+
+    <string name="hint_title">Can\'t turn the service on?</string>
+    <string name="hint_body">If the switch is greyed out, open App info, tap ⋮ (top right) and choose “Allow restricted settings”, then try again.</string>
+    <string name="btn_app_info">Open App info</string>
+
+    <string name="why_photos">Used only to find your latest photo and hand it to your gallery. Nothing leaves your phone.</string>
+    <string name="why_service">Lets the app notice when the camera opens Google Photos, so it can open your gallery instead. It cannot read your screen.</string>
+    <string name="rationale_title">Allow access to photos?</string>
+    <string name="rationale_body">Needed to find the photo you just took and open it in your gallery. Nothing is uploaded or shared. On the next screen, allow access to all photos for best results.</string>
+    <string name="new_gallery_note">New gallery found: %1$s. You will be asked which one to use until you choose below.</string>
+
+    <string name="picker_title">Open photo with</string>
+    <string name="picker_always">Always use this gallery</string>
+</resources>

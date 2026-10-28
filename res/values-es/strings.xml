@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cámara → Galería</string>
+    <string name="tagline">Abre las fotos de la Cámara de Google en la galería que prefieras.</string>
+    <string name="service_description">Cuando la Cámara de Google abre una foto en Google Fotos, este servicio cierra Google Fotos y abre la foto en la galería que elegiste. No lee el contenido de tu pantalla.</string>
+
+    <string name="status_ready">Listo</string>
+    <string name="status_ready_body">Toca la miniatura en la Cámara de Google y la foto se abrirá en %1$s.</string>
+    <string name="status_ready_ask">Toca la miniatura en la Cámara de Google y te preguntaremos qué galería usar.</string>
+    <string name="status_setup">Casi listo</string>
+    <string name="status_setup_body">Completa los pasos de abajo para que funcione.</string>
+
+    <string name="step_gallery">Galería</string>
+    <string name="step_photos">Acceso a las fotos</string>
+    <string name="step_service">Servicio en segundo plano</string>
+
+    <string name="gallery_none">No se encontró ninguna galería: instala una primero</string>
+    <string name="gallery_ask">Preguntar siempre</string>
+    <string name="access_full">Acceso total</string>
+    <string name="access_limited">Limitado: se abrirá la pantalla principal de la galería</string>
+    <string name="access_none">No permitido</string>
+    <string name="service_on">Activado</string>
+    <string name="service_off">Desactivado</string>
+
+    <string name="btn_continue">Continuar con la configuración</string>
+    <string name="btn_allow">Permitir</string>
+    <string name="btn_allow_all">Permitir todo</string>
+    <string name="btn_turn_on">Activar</string>
+    <string name="btn_settings">Ajustes</string>
+
+    <string name="section_galleries">Galerías</string>
+    <string name="section_other">Otros visores de fotos</string>
+    <string name="ask_desc">Elegir la galería cada vez que abras una foto desde la cámara</string>
+
+    <string name="hint_title">¿No se activa el servicio?</string>
+    <string name="hint_body">Si el interruptor está en gris, abre «Información de la aplicación», toca ⋮ (arriba a la derecha) y elige «Permitir ajustes restringidos»; luego inténtalo de nuevo.</string>
+    <string name="btn_app_info">Abrir información de la app</string>
+
+    <string name="why_photos">Solo se usa para encontrar tu última foto y pasársela a tu galería. Nada sale de tu teléfono.</string>
+    <string name="why_service">Permite que la app note cuándo la cámara abre Google Fotos para abrir tu galería en su lugar. No puede leer tu pantalla.</string>
+    <string name="rationale_title">¿Permitir el acceso a las fotos?</string>
+    <string name="rationale_body">Necesario para encontrar la foto que acabas de hacer y abrirla en tu galería. No se sube ni se comparte nada. En la siguiente pantalla, permite el acceso a todas las fotos para un mejor resultado.</string>
+    <string name="new_gallery_note">Se encontró una galería nueva: %1$s. Se te preguntará cuál usar hasta que elijas abajo.</string>
+
+    <string name="picker_title">Abrir foto con</string>
+    <string name="picker_always">Usar siempre esta galería</string>
+</resources>
